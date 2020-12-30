@@ -3,13 +3,13 @@
 ########################
 en: &EN
   SUBSCRIBE               : "Subscribe"
-  READMORE                : "Read more"
-  SEARCH                  : "Search"
+  READMORE                : "Leer más"
+  SEARCH                  : "Busqueda"
   CANCEL                  : "Cancel"
   VIEWS                   : "views"
   LAST_UPDATED            : "Last updated"
-  PREVIOUS                : "PREVIOUS"
-  NEXT                    : "NEXT"
+  PREVIOUS                : "Previo"
+  NEXT                    : "Próximo"
   ARTICLE_DATE_FORMAT     : "%b %d, %Y"
   ARTICLE_LIST_DATE_FORMAT: "%b %d"
   STATISTICS              : "[POST_COUNT] post articles, [PAGE_COUNT] pages."
