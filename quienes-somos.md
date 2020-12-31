@@ -15,4 +15,3 @@ Nos constituimos en Sevilla capital el 13 de noviembre de 2003. La asociación, 
 Trabajamos como entidad colaboradora, de ayuda social, con el banco de alimentos de Sevilla, para el reparto de los alimentos que se proporciona desde la Fundación a las familias qu lo necesitan.
 
 AHINCO, desde su creación es conformada por voluntarios que aportan a dicha organización, sin remuneración alguna.
-
